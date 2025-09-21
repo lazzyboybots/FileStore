@@ -36,8 +36,8 @@ FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "10"))  # 0 means no expiry
 BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/Advancx_Network")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
-START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/ec17880d61180d3312d6a.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg")
+START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/fee99f091e6352fb81df0-f76172e5916d37d5c6.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/926a8f1f6c69503461c07-1b1129cc9e24648890.jpg")
 #--------------------------------------------
 
 #--------------------------------------------
